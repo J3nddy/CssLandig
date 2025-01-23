@@ -20,11 +20,13 @@ body {
 .navbar a{
     color: #ffffff    ;
     padding: 40px 45px;
+    text-decoration: none;
 }
 
 .navbar a:hover {
     background-color: #ffffff;
     color: #000000 ;
+    text-decoration: none;
 }
 
 .navbar h1 {
@@ -587,4 +589,8 @@ footer {
     position: relative;
     bottom: 0;
     width: 100%;
+}
+
+.video {
+    position: relative;
 }
