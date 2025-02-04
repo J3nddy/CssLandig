@@ -561,8 +561,8 @@ form label{
 }
 
 form input, form textarea{
-    margin-bottom: 15px;
-    padding: 10px;
+    margin-bottom: 10px;
+    padding: 25px;
     border: 1px solid #ccc;
     border-radius: 4px;
 }
@@ -585,7 +585,7 @@ footer {
     background-color: #000000;
     color: white;
     text-align: center;
-    padding: 10px 0;
+    padding: 50px 0;
     position: relative;
     bottom: 0;
     width: 100%;
@@ -594,3 +594,4 @@ footer {
 .video {
     position: relative;
 }
+
